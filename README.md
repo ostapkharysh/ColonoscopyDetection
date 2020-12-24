@@ -3,13 +3,15 @@ The Health Analytics department from a very well-known hospital located in a Eur
 
 
 Technical report, including the following sections:
-o Scope.
-o Descriptive analysis.
-o Data exploration.
-o Data preparation.
-o Model learning.
-o Model evaluation.
-• Any code that you might have used for procedures regarding data management
+Scope.
+* Descriptive analysis.
+* Data exploration.
+* Data preparation.
+* Model learning.
+* Model evaluation.
+
+Also:
+* Any code that you might have used for procedures regarding data management
 (data preparation, cleaning, integration, etc.) and modelling.
-• A README document where you explain what files you delivered and the
+* A README document where you explain what files you delivered and the
 description of each one.
